@@ -17,3 +17,45 @@ size() — вернуть размер очереди;
 
 Формат вывода
 Напечатайте результаты выполнения нужных команд, по одному на строке.
+
+Пример 1
+Ввод
+Вывод
+8
+2
+peek
+push 5
+push 2
+peek
+size
+size
+push 1
+size
+None
+5
+2
+2
+error
+2
+Пример 2
+Ввод
+Вывод
+10
+1
+push 1
+size
+push 3
+size
+push 1
+pop
+push 1
+pop
+push 3
+push 3
+1
+error
+1
+error
+1
+1
+error
