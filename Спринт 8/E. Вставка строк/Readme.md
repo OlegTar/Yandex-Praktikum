@@ -125,3 +125,21 @@ i
 
 Формат вывода
 Выведите получившуюся в результате вставок строку.
+
+Пример 1
+Ввод
+Вывод
+abacaba
+3
+queue 2
+deque 0
+stack 7
+dequeabqueueacabastack
+Пример 2
+Ввод
+Вывод
+kukareku
+2
+p 1
+q 2
+kpuqkareku
